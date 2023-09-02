@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+
+
+    <array name="Countries">
+        <item>India</item>
+        <item>Qatar</item>
+        <item>USA</item>
+        <item>Norway</item>
+        <item>Malaysia</item>
+        <item>UAE</item>
+    </array>
+</resources>
